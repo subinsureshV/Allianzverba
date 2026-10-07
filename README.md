@@ -1,8 +1,7 @@
-# DocuShift AI — Format-Preserving PDF Translator
+# AllianzVerba — Format-Preserving PDF Translator
 
-DocuShift AI is a powerful Streamlit web application that converts any uploaded PDF document in any foreign language into English (or other target languages) **without altering the original format, layout, vector graphics, logos, colors, or page structure**.
+AllianzVerba is a powerful Streamlit web application that converts any uploaded PDF document in any foreign language into English (or other target languages) **without altering the original format, layout, vector graphics, logos, colors, or page structure**.
 
----
 
 ## 🌟 Key Features
 
